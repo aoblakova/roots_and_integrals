@@ -8,7 +8,7 @@ Compares different approaches for solving the linear system of equation for x<su
 
 <img src="https://render.githubusercontent.com/render/math?math=\sum_{j=0}^n x_j\, f_j(z_k) = 0,\ k=1,\dots,n">,
 
-where f<sub>j</sub> and D(z) are known functions, and z<sub>k</sub> are the zeroes of D(z) inside the unit disk. Such systems of equations occur in queueing systems. 
+where f<sub>j</sub> and D(z) are known functions, and z<sub>k</sub> are the zeroes of D(z) inside the unit disk. Such systems of equations occur in queueing models. 
 For a special case of the bulk-service queue with binomial arrivals, the project plots the error compared to the explicit solution.
 
 
